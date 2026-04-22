@@ -1,0 +1,251 @@
+===== PAGINA 1 =====
+GOSERAODEL
+ESTADO DE
+MEXICOK
+MEXICO
+EJECUCION FISCAL
+NOMBRE:
+TRAMITE:
+SERVICIO:
+JUEGOS
+DESCRIPCION:
+Es el impuesto que se debe pagar las personas que obtengan ingresos por la explotacion de maquinitas.
+Articulo 48, fraccion I y III, 122, 123 y 361, fraccion X1II del Codigo Financiero del Estado de Mexico
+FUNDAMENTO
+y Municipios; 14, fraccion V, Titulo Tercero, Titulo Decimo, Capitulo III, 47 y 48 del Bando Municipal
+LEGAL:
+de Ecatepec de Morelos 2025.
+VIGENCIA DEL
+DOCUMENTOA
+Por cada pago realizado ante las cajas de la Tesoreria
+La que el recibo de
+DOCUMENTO
+OBTENER:
+Municipal, se emitira el recibo de pago correspondiente.
+A OBTENER:
+pago especifique
+&SE REALIZA EN
+NO
+NO
+NO APLICA
+LiNEA?:
+APLICA
+CASOSENLOSQUEELTRAMITE
+El contribuyente se encuentra obligado a realizar el tramite de forma mensual.
+DEBEREALIZARSE:
+ESPECIFICARSIESTETRAMITE
+El establecimiento sera visitado de forma periodica, para constatar que lo notificado
+O SERVICIO ESTA SUJETO A
+por el contribuyente sea congruente con los pagos realizados.
+INSPECCIONOVERIFICACIONY
+OBJETIVODELAMISMA
+COPIAS
+FUNDAMENTOJURIDICO.
+anotar con
+ADMINISTRATIVO,
+ORIGINAL
+numero
+REQUISITOS:
+Anotar SI o
+NO
+
+===== PAGINA 2 =====
+COIERAODTL
+IAXODE
+ESTADO DE
+MEXICO
+MEXICO
+PERSONAS FiSICAS
+Articulo 122 y 123 del C6digo Financiero
+del Estado de Mexico y Municipios y el
+1.Recibo de pago del periodo inmediato
+Procedimiento 35 del Manual de
+NO
+anterior.
+Procedimientos de la Tesoreria Municipal
+de Ecatepec de Morelos.
+PERSONASJURiDICOCOLECTIVAS
+Articulo 122 y 123 del Codigo Financiero
+del Estado de Mexico y Municipios y el
+Procedimiento 35 del Manual de
+1. Recibo de pago del periodo inmediato
+NO
+Procedimientos de la Tesoreria Municipal
+anterior.
+de Ecatepec de Morelos.
+INSTITUCIONESPUBLICAS
+Articulo 122 y 123 del Codigo Financiero
+del Estado de Mexico y Municipios y el
+Procedimiento 35 del Manual de
+Recibo de pago del periodo inmediato
+NO
+Procedimientos de la Tesoreria Municipal
+anterior.
+de Ecatepec de Morelos.
+1.
+El contribuyente debera acudir a ventanilla nmero 6 al interior de la Tesoreria Municipal.
+PASOSASEGUIR
+2.
+Presentar los requisitos solicitados.
+QUEDEBE DE
+3.
+En la citada ventanilla se le elaborara su liquidacion y/o linea de captura.
+REALIZAREL
+4.
+El contribuyente con su linea de captura podra realizar su pago dirigiendose al area de cajas
+CIUDADANO
+en el interior de la Tesoreria Municipal o bien realizar transferencia bancaria.
+5.
+Una vez efectuado el pago, el contribuyente entregara una copia del recibo correspondiente en
+ventanilla 6.
+6.
+Se registra el pago en el expediente respectivo.
+PLAZO MAMXIO
+DE RESPUESTA
+Inmediato
+COSTO:
+Gratuito
+NO APLICA
+FORMA DE PAGO:
+TARJETA DE
+TARJETA DE
+EN LiNEA (PORTAL
+SI
+SI
+EFECTIVO
+CREDITO
+DEBITO
+DE PAGOS)
+DONDE PODRA
+1.
+En las cajas de la Tesoreria Municipal de Ecatepec de Morelos
+PAGARSE:
+2.
+Transferencia bancaria.
+OTRAS
+Bancarios
+ALTERNATIVAS:
+
+===== PAGINA 3 =====
+COMERNODL
+ESIADXODE
+ESTADO DE
+MEXICOR
+MEXICO
+CRITERIOSDE
+No se podra realizar el tramite si no cumple con el requisito.
+RESOLUCIONDEL
+TRAMITE
+APLICACION DE
+LA AFIRMATIVA
+NO APLICA
+FICTA.
+UNIDADADMINISTRATIVA
+DEPENDENCIAUORGANISMO:
+RESPONSABLE:
+Tesoreria Municipal de Ecatepec de Morelos
+Departamento de Ejecucion Fiscal
+TITULAR DE LA
+Lic. Alejandro Hernandez Aguilar
+DEPENDENCIA:
+CALLE:
+Av. Juarez S/N
+DOMICILIO:
+NO. INT. Y
+NO APLICA
+EXT.: NO
+APLICA
+San Cristobal Centro
+COLONIA:
+MUNICIPIO:
+Ecatepec de Morelos
+C.P.:
+55000
+HORARIOYDIASDE
+De lunes a viernes, de la 9:00 a las 15:00 horas.
+ATENCION:
+LADA:
+TELEFONOS:
+EXTS..
+FAX:
+CORREO ELECTRONICO:(27)
+NO
+5558361500
+1454
+NO APLICA
+NO APLICA
+APLIC
+OTRASOFICINASQUEPRESTANELSERVICIO
+OFICINA:
+NO APLICA
+NO APLICA
+NOMBREDELTITULARDELA
+OFICINA:
+CALLE:
+DOMICILIO:
+NO APLICA
+NO. INT. Y
+NO APLICA
+EXT.:
+NO APLICA
+COLONIA:
+NO APLICA
+MUNICIPIO:
+NO
+C.P.:
+HORARIOYDIASDE
+NO APLICA
+APLICA
+ATENCION:
+LADA:
+TELEFONOS:
+EXTS..
+FAX:
+CORREOELECTRONICO:
+NO
+NO APLICA
+NO
+NO APLICA
+NO APLICA
+APLIC
+APLICA
+NO APLICA
+FORMATO
+DESCARGABLES
+
+===== PAGINA 4 =====
+CODIRRAO DEL
+ESTADOOE
+MEXICOR
+MEXICO
+INFORMACION ADICIONAL
+PREGUNTA FRECUENTE
+Donde se realiza el tramite de pago de estacionamientos?
+1:
+En el Departamento de Ejecucion Fiscal, ventanilla numero 6 al interior de la Tesoreria
+RESPUESTA:
+Municipal del H. Ayuntamiento de Ecatepec de Morelos.
+PREGUNTA FRECUENTE
+Se puede realizar en linea este tramite?
+2:
+RESPUESTA:
+Es necesario acudir a las instalaciones dela Tesoreria Municipal de Ecatepec de Morelos.
+PREGUNTAFRECUENTE
+NO APLICA
+3:
+NO APLICA
+RESPUESTA:
+TRAMITES O SERVICIOS RELACIONADOS
+NO APLICA
+ELABORO:
+VISTOBUENO:
+FECHA DE ACTUALIZACION:
+OECATEPEC
+Lic.Jestrs JimenezCeron
+31/01/2025
+HAYUNTAMIENTO EAAYEPEOOEMOOS
+2025
+027
+MUNICIPAL
+JEFEDEDEPARTAMENTO
+TESOREROMUNICIPAL

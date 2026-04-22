@@ -1,0 +1,27 @@
+TRAMITE: Estacionamientos (Derechos por servicio de estacionamiento)
+TIPO: Servicio
+AREA: Tesorería Municipal / Departamento de Ejecución Fiscal
+DOCUMENTO_A_OBTENER: Recibo de pago bimestral
+VIGENCIA_DEL_DOCUMENTO_A_OBTENER: La que especifique el recibo
+SE_REALIZA_EN_LINEA: NO
+DESCRIPCION: Derecho que se paga por prestar el servicio de estacionamiento a la ciudadanía, en lugares públicos y privados.
+FUNDAMENTO_LEGAL: Título Segundo, Capítulo Segundo, Artículos 48 fracciones I y III, 157, 158, 361 fracción XIII del Código Financiero del Estado de México y Municipios; 14 fracción V, Título Tercero, Título Décimo, Capítulo III; 47 y 48 del Bando Municipal de Ecatepec de Morelos 2025.
+CASOS: El contribuyente está obligado a realizar el trámite de forma bimestral.
+SUJETO_A_INSPECCION: Sí — el establecimiento es visitado periódicamente.
+
+REQUISITOS PERSONAS FÍSICAS:
+1. Recibo de pago del periodo inmediato anterior (Original NO, Copias 1)
+
+REQUISITOS PERSONAS JURÍDICO COLECTIVAS:
+1. Recibo de pago del periodo inmediato anterior (Original NO, Copias 1)
+
+REQUISITOS INSTITUCIONES PÚBLICAS:
+1. Recibo de pago del periodo inmediato anterior (Original NO, Copias 1)
+
+PASOS: Acudir a la ventanilla 6 de la Tesorería Municipal → Presentar requisitos → Recibir liquidación/línea de captura → Pagar en cajas o transferencia → Entregar copia del recibo en ventanilla 6.
+COSTO: Gratuito (trámite; se paga el derecho)
+TIEMPO_MAXIMO_RESPUESTA: Inmediato
+FORMA_DE_PAGO: Efectivo, TDC, TDB (Portal en línea: NO). Alternativa: transferencia bancaria.
+CRITERIOS_RESOLUCION: No se podrá realizar el trámite si no cumple con los requisitos.
+TRAMITES_RELACIONADOS: N/A
+FECHA_ACTUALIZACION: 31/01/2025

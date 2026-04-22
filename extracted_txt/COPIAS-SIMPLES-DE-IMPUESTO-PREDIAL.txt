@@ -1,0 +1,32 @@
+TRAMITE: Copias simples y certificadas del expediente (Impuesto Predial)
+TIPO: Servicio
+AREA: Tesorería Municipal / Departamento Impuesto Predial
+DOCUMENTO_A_OBTENER: Copias de su expediente o recibo certificado
+VIGENCIA_DEL_DOCUMENTO_A_OBTENER: Sin plazo determinado (a solicitud del contribuyente)
+SE_REALIZA_EN_LINEA: NO
+DESCRIPCION: Emisión de copia simple o certificada, en la que la Tesorería Municipal da fe de los documentos bajo su resguardo. El contribuyente lo solicita por extravío, trámite administrativo/legal sobre el inmueble, o para modificar, agregar o quitar datos con base en documentación que acredite la propiedad (previo pago de derechos por corrección).
+FUNDAMENTO_LEGAL: Artículo 147 inciso a y b; 171 fracción VIII del Código Financiero del Estado de México y Municipios; 135 del Código de Procedimientos Administrativos.
+CASOS: Cuando el contribuyente tiene dudas respecto a su expediente, requiere realizar un trámite legal, o extravió su documentación y la quiere recuperar.
+SUJETO_A_INSPECCION: N/A
+
+REQUISITOS PERSONAS FÍSICAS:
+1. Documento que acredite la propiedad del inmueble (Escrituras, Traslado de Dominio o Contrato de compraventa) (Original SI, Copias 0)
+2. Identificación oficial (Original SI, Copias 0)
+
+REQUISITOS PERSONAS JURÍDICO COLECTIVAS:
+1. Documento que acredite la titularidad (Original SI, Copias 0)
+2. Poder notarial (Original SI, Copias 0)
+3. Acta Constitutiva (Original SI, Copias 0)
+
+REQUISITOS INSTITUCIONES PÚBLICAS:
+1. Identificación Oficial vigente (Original SI, Copias 0)
+2. Poder notarial (Original SI, Copias 0)
+3. Acta Constitutiva (Original SI, Copias 0)
+
+PASOS: Ingresar solicitud de búsqueda del expediente con la documentación requerida → Esperar entrega del expediente.
+COSTO: Variable — 1ra foja $96.00 / 2da foja $47.00 (Art. 113 CFEM)
+TIEMPO_MAXIMO_RESPUESTA: 15 días
+FORMA_DE_PAGO: Efectivo, TDC, TDB (Portal en línea: NO)
+INFORMACION_ADICIONAL: Solo el titular puede solicitar el expediente, salvo acreditación mediante carta poder o poder notarial (persona moral).
+TRAMITES_RELACIONADOS: Entrega de copias certificadas del expediente o de los recibos.
+FECHA_ACTUALIZACION: 31/01/2025

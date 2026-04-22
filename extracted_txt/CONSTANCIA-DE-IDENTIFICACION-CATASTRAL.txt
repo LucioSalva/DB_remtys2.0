@@ -1,0 +1,26 @@
+TRAMITE: Constancia de Identificación Catastral
+TIPO: Trámite
+AREA: Catastro / Departamento de Catastro
+DOCUMENTO_A_OBTENER: Constancia de Identificación Catastral
+VIGENCIA_DEL_DOCUMENTO_A_OBTENER: Ejercicio fiscal vigente (desde día de emisión hasta fin de año en curso)
+SE_REALIZA_EN_LINEA: NO
+DESCRIPCION: Documento emitido por el Departamento de Catastro que hace constar los datos técnicos registrados en el Padrón Catastral: nombre del propietario, ubicación, localidad, superficie de terreno y construcción.
+FUNDAMENTO_LEGAL: Art. 166 fracción IV, 167, 168, 169 fracción IV, 171, 173, 175, 179 y 182 del Código Financiero EdoMex; 21 y 22 numeral II inciso d del Reglamento del Título Quinto.
+CASOS: Cuando el propietario requiera aclaración sobre la identidad del inmueble.
+
+REQUISITOS PERSONAS FÍSICAS:
+1. Formato de Solicitud de Servicios Catastrales (Original SI, Copia 0)
+2. Manifestación por modificaciones de superficie (Original SI, Copia 0)
+3. Documento que acredite la propiedad (Escritura, Testimonio Notarial, Sentencia Judicial, manifestación traslado y recibo de pago, cédula IMEVIS/INSUS/CORETT, contrato compra-venta, cesión de derechos) (Original SI, Copia 1)
+4. Copia de Identificación oficial del propietario/poseedor y de la persona autorizada (credencial elector vigente, cartilla, pasaporte, cédula profesional) (Original SI, Copia 1)
+5. Pago de Impuesto Predial (manifestación catastral y boucher bancario y/o boleta predial) (Original NO, Copia 1)
+6. Pago de derechos de la Constancia de Identificación Catastral (Original SI, Copia 1)
+7. Fotografía fachada a color (Original SI, Copia 0)
+8. Croquis de localización (Original SI, Copia 0)
+
+REQUISITOS PERSONAS JURÍDICO COLECTIVAS e INSTITUCIONES PÚBLICAS: similares; Instituciones añaden Solicitud de exención de servicios catastrales (Art. 23 Código Financiero).
+
+COSTO: $282.85 (2.5 UMA)
+TIEMPO_MAXIMO_RESPUESTA: 15 días hábiles
+FORMA_DE_PAGO: Efectivo, TDC, TDB, Portal SI
+FECHA_ACTUALIZACION: 31/ENERO/2025

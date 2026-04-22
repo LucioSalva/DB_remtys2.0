@@ -1,0 +1,50 @@
+TRAMITE: Verificación de Linderos
+TIPO: Servicio
+AREA: Catastro / Jefatura de Catastro
+DOCUMENTO_A_OBTENER: Oficio y plano de levantamiento topográfico
+VIGENCIA_DEL_DOCUMENTO_A_OBTENER: Permanente, siempre y cuando no se realicen modificaciones.
+SE_REALIZA_EN_LINEA: NO
+DESCRIPCION: Servicio que cumple con los trabajos y metodologías de un levantamiento topográfico catastral, pero sin notificación a los propietarios de inmuebles colindantes. Se origina cuando el propietario o poseedor no está conforme con las medidas del perímetro o la superficie contenida en el documento que acredita la propiedad.
+FUNDAMENTO_LEGAL: Artículos 166 fracción VI, 167, 168, 169, 171, 173, 175, 179 y 182 del Código Financiero del Estado de México y Municipios; 21 y 22 numeral II inciso f del Reglamento del Título Quinto denominado "Del Catastro"; Numeral III del Manual Catastral del Estado de México.
+CASOS: Cuando el propietario o poseedor no está conforme con las medidas y superficies del documento que acredita la propiedad, siempre que proporcione la relación de colindantes.
+SUJETO_A_INSPECCION: Sí aplica — verificación de medidas, colindancias y superficies del inmueble.
+
+REQUISITOS PERSONAS FÍSICAS:
+1. Formato de Solicitud de Servicios Catastrales debidamente llenado, firmado y requisitado (Original SI, Copias 0)
+2. Documento que acredite la propiedad del inmueble (Escritura Pública, Sentencia Judicial con Ejecutoria, Contrato de Compra-Venta, Traslado de Dominio con comprobante de pago, etc.) (Original NO, Copias 1)
+3. Recibo de pago de impuesto predial al corriente o comprobante de pago (boucher bancario) (Original NO, Copias 1)
+4. Copia de identificación oficial del propietario o poseedor y de la persona autorizada (credencial para votar vigente, cartilla, pasaporte o cédula profesional) (Original NO, Copias 1)
+5. Carta poder e identificación oficial de quien solicite el trámite, si no es el propietario (Original SI, Copias 0)
+6. Copia del recibo del pago de derechos por el servicio (Original SI, Copias 1)
+7. Fotografía de la fachada del inmueble a color (Original SI, Copias 0)
+8. Croquis de localización del inmueble (Original SI, Copias 0)
+
+REQUISITOS PERSONAS JURÍDICO COLECTIVAS:
+1. Formato de Solicitud de Servicios Catastrales (Original SI, Copias 0)
+2. Documento que acredite la propiedad (Escritura Pública, Testimonio Notarial, Sentencia Judicial con ejecutoria, contrato de compra-venta, traslado de dominio con pago, etc.) (Original NO, Copias 1)
+3. Recibo de pago de impuesto predial vigente o línea de captura con boucher bancario (Original NO, Copias 1)
+4. Identificación oficial del propietario (credencial para votar, cartilla militar, pasaporte) (Original NO, Copias 1)
+5. Poder Notarial e identificación oficial vigente del representante legal y de la persona autorizada (Original SI, Copias 0)
+6. Copia del recibo del pago de derechos por el servicio (Original SI, Copias 1)
+7. Fotografía de la fachada del inmueble a color (Original SI, Copias 0)
+8. Croquis de localización del inmueble (Original SI, Copias 0)
+
+REQUISITOS INSTITUCIONES PÚBLICAS:
+1. Formato de Solicitud de Servicios Catastrales (Original SI, Copias 0)
+2. Documento que acredite la propiedad (Escritura Pública, Testimonio Notarial o Sentencia Judicial con ejecutoria) (Original NO, Copias 1)
+3. Identificación oficial del propietario (Original NO, Copias 1)
+4. Carta poder e identificación oficial de quien solicite el trámite, si no es el propietario (Original SI, Copias 0)
+5. Solicitud de Certificación de Clave y Valor Catastral (Original SI, Copias 0)
+6. Relación de nombres de los colindantes y de dos testigos con domicilio en el territorio municipal, o en su caso oficio que autorice la exención del pago (Original SI, Copias 0)
+7. Solicitud de exención de los servicios catastrales (Art. 23 CFEM) (Original SI, Copias 0)
+8. Fotografía de la fachada del inmueble a color (Original SI, Copias 0)
+9. Croquis de localización del inmueble (Original SI, Copias 0)
+
+PASOS: Llenar la solicitud de servicios catastrales, adjuntar documentación → Realizar pago de derechos → Verificación física → A los 5 días hábiles posteriores se emite oficio y plano de levantamiento topográfico.
+COSTO: Variable, según superficie de terreno resultante (Art. 166 fracción VI CFEM)
+TIEMPO_MAXIMO_RESPUESTA: 25 días hábiles posteriores a la visita
+FORMA_DE_PAGO: Efectivo, TDC, TDB, En línea (Portal de Pagos SÍ). Alternativa: bancos autorizados.
+CRITERIOS_RESOLUCION: Que no exista controversia entre los predios colindantes o de otra índole sobre el inmueble motivo del servicio.
+INFORMACION_ADICIONAL: No se requiere informar a los colindantes; la verificación se realiza al interior del predio. No se requieren permisos adicionales de otras instancias.
+TRAMITES_RELACIONADOS: Solicitud de Certificación de Clave y Valor Catastral.
+FECHA_ACTUALIZACION: 31/01/2025

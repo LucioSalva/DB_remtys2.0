@@ -1,0 +1,249 @@
+===== PAGINA 1 =====
+ESIAO0E
+ESTADO DE
+MEXICOK
+MEXICO
+ipudesei
+NOMBRE:EMISIONDECOPIASDELEXPEDIENTE
+TRAMITE:
+SERVICIO
+Copias simples y Certificadas del expediente, asi como de recibos de pago de predio.
+DESCRIPCION:
+Copia certificada o simple, en donde la Tesoreria Municipal da fe de los documentos solicitados y que se encuentran en
+resguardo de la misma y el contribuyente lo solicita ya sea porque los extravio y realizara algun tramite administrativo y/o
+legal respecto de su inmueble, asi como se para modificar, agregar o quitar datos con base en la documentacion que acrediten
+la propiedad, con previo pago de derechos por la correccion de datos.
+Articulo 147 Inciso a y b; 171 fraccion VIII del Codigo Financiero del Estado de México y Municipios;
+FUNDAMENTO
+135 del Codigo de Procedimientos Administrativos.
+LEGAL:
+Tramite sin plazo
+determinado,
+ya
+VIGENCIA DEL
+DOCUMENTO A
+que se realiza
+Copiasde su expedienteoRecibo certificado
+DOCUMENTO
+OBTENER:
+solicitud
+del
+AOBTENER:
+contribuyente.
+NO
+SE REALIZA EN
+SI
+DIRECCION
+N/A
+LiNEA?:
+WEB
+Cuando el contribuyente tiene alguna duda con respecto a lo que obre en su
+CASOSENLOSQUEELTRAMITE
+expediente o quiera realizar algun tramite legal o en su defecto perdio su
+DEBEREALIZARSE:
+documentacion y quiere recuperarla.
+ESPECIFICAR SIESTETRAMITEO
+SERVICIOESTA SUJETOA
+N/A
+INSPECCIONOVERIFICACIONY
+OBJETIVODELAMISMA
+COPIAS
+FUNDAMENTOJURIDICO
+ORIGINAL
+REQUISITOS:
+anotarcon
+ADMINISTRATIVO
+Anotar SI o NO
+ntmero
+PERSONAS FISICAS
+1. Adjuntar
+documento
+que
+acredite la
+SI
+Articulo 28 de la Ley de Mejora
+del
+inmueble
+propiedad
+(Escrituras,
+Regulatoria del Estado de Mexico y sus
+Trasladode Dominio oContrato de
+Municipios; paginas 43 - 56 del Manual
+compraventa
+SI
+2.
+Identificacion Oficial
+de Procedimientos de la Tesoreria
+Municipal.
+PERSONAS JURiDICO COLECTIVAS
+1.-Documento que acredite la titularidad
+IS
+Articulo 28 de la Ley de Mejora
+Regulatoria del Estado de Mexico y sus
+2.- Poder notarial
+Municipios; paginas 43 - 56 del Manual
+3.- Acta Constitutiva
+SI
+de Procedimientos de la Tesoreria
+Municipal.
+INSTITUCIONESPUBLICAS
+
+===== PAGINA 2 =====
+GOMRNODEL
+ESIAOOE
+ESTAOO DE
+MEXICOK
+MEXICO
+1.-Identificacion Oficial vigente
+SI
+Articulo 28 de la Ley de Mejora
+Regulatoria del Estado de Mexico y sus
+2.- Poder notarial
+SI
+Municipios; paginas 43-56 del Manual
+3.-Acta Constitutiva
+SI
+de Procedimientos de la Tesoreria
+Municipal.
+PASOSA SEGUIR
+QUEDEBEDE
+Ingresar solicitud de la busqueda el expediente, con la documentacion requerida, y esperar a que
+REALIZAREL
+entreguen su expediente.
+CIUDADANO
+PLAZO MAMXIO
+15 dias
+DE RESPUESTA
+Variable (ler.Foja $96.00 Y 2da.
+COSTO:
+Articulo 113 del Codigo Financiero del Estado de México y sus
+$47.00)
+Municipios.
+FORMADEPAGO:
+EN LiNEA
+TARJETA DE
+TARJETA DE
+SI
+SI
+EFECTIVO
+(PORTAL DE
+NO
+CREDITO
+DEBITO
+PAGOS)
+DONDE PODRA
+Encajasdela Tesoreria Municipal
+PAGARSE:
+OTRAS
+N/A
+ALTERNATIVAS
+CRITERIOSDE
+RESOLUCION DEL
+expediente.
+TRAMITE
+APLICACION DE
+LA AFIRMATIVA
+N/A
+FICTA.
+UNIDADADMINISTRATIVA
+DEPENDENCIAUORGANISMO:
+RESPONSABLE:
+Tesoreria Municipal
+Departamento Impuesto Predial
+TITULARDELA
+Lic. Alejandro Hernandez Aguilar
+DEPENDENCIA:
+DOMICILIO:
+CALLE:
+NO.
+Benito Juarez
+INT. Y
+S/N
+EXT.:
+COLONIA:
+San Cristobal Centro
+MUNICIPIO:
+Ecatepec de Morelos
+C.P.:
+55000
+HORARIOYDIASDE
+En un horario de atencion de Lunes a Viernes de 09:00 a las 15:30 hrs.
+ATENCION:
+LADA:
+TELEFONOS:
+EXTS..
+FAX:
+CORREOELECTRONICO:
+
+===== PAGINA 3 =====
+ESIAODE
+MEXICOK
+MEXICO
+tpodur desenvis
+58361500
+1556
+OTRASOFICINASOUE PRESTANELSERVICIO
+N/A
+OFICINA:
+N/A
+NOMBREDELTITULARDE
+LA OFICINA:
+N/A
+N/A
+DOMICILIO:
+CALLE:
+NO.
+INT. Y
+EXT.:
+N/A
+COLONIA:
+N/A
+MUNICIPIO:
+C.P.:
+N/A
+HORARIOYDIASDE
+ATENCION:
+LADA:
+TELEFONOS:
+EXTS.:
+FAX:
+CORREOELECTRONICO:
+N/A
+N/A
+N/A
+N/A
+N/A
+FORMATO(S)
+N/A
+DESCARGABLES
+INFORMACIONADICIONAL
+PREGUNTAFRECUENTEI:
+zCualquier persona puede solicitar un expediente?
+No, a menos que sea el titular o lo acredite con carta poder o poder notarial en caso de
+RESPUESTA:
+persona moral
+PREGUNTAFRECUENTE2:
+zEn que caso aplica la solicitud de expediente?
+Cuando extravian los documento o solo requieren saber un dato referente a su inmueble.
+RESPUESTA:
+TRAMITESOSERVICIOSRELACIONADOS
+Entrega decopias certificadas del expediento o de los recibos
+ELABORO:
+VISTO BUENO:
+FECHA DE ACTUALIZACION:
+ECATPEC
+Cambicconhonestidad!
+ECATEPEC
+HAYUTAMWTECATEPEC DEMORELOS
+ICamgoconhonestedy
+20
+2027
+ERIA
+DEPARTAMENTQ DE
+MPJOgTCSPRESIAL
+Lic. Alejandro HernandezAgtilar
+31/01/2025
+H.AYUNTAMIRNTO BCATEPECDE MORELOS
+20252027
+NOMBRECOMPLETO
+NOMBRECOMPLETO

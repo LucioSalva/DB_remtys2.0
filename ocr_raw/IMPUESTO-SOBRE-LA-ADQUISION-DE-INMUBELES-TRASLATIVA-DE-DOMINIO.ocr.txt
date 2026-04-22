@@ -1,0 +1,310 @@
+===== PAGINA 1 =====
+COBIERNOOTL
+ESTADO DE
+MEXICOK
+MEXICO
+TRAMITE:
+SERVICIO:
+NOMBRE:
+Impuesto sobre la AdquisiciondeInmuebles, Traslativa deDominio
+DESCRIPCION:
+Inmuebles, para que el Predio y documentos posteriores emitidos por Tesoreria Municipal, se registren a nombre del nuevo
+Propietario.
+Articulos 46 fraccion III, 113, 114, 115, 116, 117 y 171 fraccion I del Codigo Financiero del Estado de
+Mexico y Municipios; 4 de la Ley de Ingresos de los Municipios del Estado de Mexico; 3, 13, 15 y 48
+de
+Ley
+Organica
+FUNDAMENTO
+de
+VI
+la
+fraccion
+LEGAL:
+Administracion Pblica del Estado de Mexico; y 1 fraccion II y IX 3, 113, 115, 116, 118 fraccion I, 132
+Codigo
+de
+del
+135
+Procedimientos
+Administrativos del Estado de Mexico.
+VIGENCIA DEL
+DOCUMENTO A
+Formato de Traslado de Dominio y recibo de pago deDOCUMENTO A
+Permanente
+OBTENER:
+OBTENER:
+Traslado de Dominio, debidamente Autorizado
+SI
+NO
+SE REALIZA EN
+DIRECCION
+LINEA?:
+WEB
+N/A
+CASOS EN LOS QUEELTRAMITE
+DEBEREALIZARSE:
+Al adquirir un Bien Inmueble.
+ESPECIFICAR SIESTETRAMITE
+O SERVICIO ESTA SUJETO A
+INSPECCION O VERIFICACION YN/A
+OBJETIVODELAMISMA
+COPIAS
+ORIGINAL
+FUNDAMENTOJURIDICO
+anotar con
+ADMINISTRATIVO,
+REQUISITOS:
+Anotar SI o
+numero
+PERSONAS FiSICAS
+Presentar copia certificada de la Escritura
+NO
+Articulo 114 y 116 del Codigo Financiero
+Publica expedida por notario.
+de Estado de Mexico y Municipios, y
+92
+del
+pagina85 a
+Manual de
+2. Resolucion Judicial o Administrativa que
+Procedimientos de Tesoreria Municipal
+haya causado ejecutoria, en el que conste
+el acto Traslativo de Dominio.
+3.En caso de Documentos Privados (Compra
+Venta, Cesion de Derechos o Donacion)
+
+===== PAGINA 2 =====
+COBIERNOORL
+ESYADO DE
+MEXICO
+MEXICO
+SI
+estos deben estar cotejados ante Notario
+Publico e incluir identificacion oficial del
+anterior propietario.
+4.
+Certificacion de Clave y Valor Catastral
+SI
+5.
+Copia de Aportacion de Mejoras
+SI
+6.
+Certificacion de No Adeudo Predial
+Certificacion de No Adeudo de Agua o
+SI
+Constancia de No Servicio (SAPASE o
+SI
+Pozo.
+8.
+Identificacion Oficial del Propietario,
+Poder Notarial o Carta Poder con
+SI
+respectivas identificaciones.
+SI
+9. 
+Formato proporcionado en ventanilla 1 o
+2, llenado a maquina de escribir o
+computadora.
+INSTITUCIONES PUBLICAS
+1.
+Presentar copia certificada de la Escritura
+SI
+Articulo 114 y 116 del Codigo Financiero
+Publica expedida por notario.
+de Estado de Mexico y Municipios,y
+SI
+pagina 85 a 92 del Manual de
+Resolucion Judicial o Administrativa que
+Procedimientos de Tesoreria Municipal
+haya causado ejecutoria, en el que conste
+SI
+el acto Traslativo de Dominio.
+3.En caso de Documentos Privados (Compra
+SI
+Venta, Cesion de Derechos o Donacion)
+estos deben estar cotejados ante Notario
+Publico e incluir identificacion oficial del
+anteriorpropietario.
+SI
+4.
+Certificacion de Clave y Valor Catastral
+5.
+Certificacion de Aportacion de Mejoras
+SI
+6.
+Certificacion de No Adeudo de Predial
+SI
+7.
+Certificacion de No Adeudo de Agua o
+Constancia de No servicio (SAPASE O
+Pozo Independiente)
+SI
+8.
+Notarial
+Poder
+con
+respectivas
+identificaciones.
+9.
+Formato proporcionado en ventanilla 1 o
+2, llenado a Maquina de escribir o
+computadora.
+
+===== PAGINA 3 =====
+GOMIERNODRL
+ESYADO DE
+MEXICOK
+MEXICO
+1.
+Presentarrequisitos completosen ventanilla 1o 2pararecibir suliquidacion.
+PASOSA SEGUIR
+2.
+RealizarelpagoencajasdelaTesoreria.
+QUE DEBEDE
+3.
+Presentar el pago en ventanilla con 2 copias.
+REALIZAREL
+4.
+Regresar en 30 dias habiles por su documento firmado y autorizado.
+CIUDADANO
+PLAZO MAXIMO
+DE RESPUESTA
+30Diashabiles
+COSTO:
+Fijo, de acuerdo al calculo de la tabla
+Articulos 115 y 116 del Codigo Financiero del Estado Mexico.
+de valores
+FORMADEPAGO
+TARJETA DE
+TARJETA DE
+EN LiNEA (PORTAL
+SI
+SI
+SI
+EFECTIVO
+SI
+CREDITO
+DEBITO
+DE PAGOS)
+DONDE PODRA
+En cajas de la Tesoreria Municipal
+PAGARSE:
+OTRAS
+Bancaria.
+ALTERNATIVAS:
+CRITERIOSDE
+Si no se presentan los documentos completos y en el ano fiscal o se realiza el pago dentro del plazo
+RESOLUCIONDEL
+del mes corriente, la liquidacion quedara sin valor y se tendra que realizar otra.
+TRAMITE
+APLICACIONDE
+LA AFIRMATIVA
+N/A
+FICTA.
+UNIDADADMINISTRATIVA
+DEPENDENCIAUORGANISMO:
+RESPONSABLE
+Tesoreria Municipal
+Traslado de Dominio
+TITULAR DELA
+Lic. Alejandro Hernandez Aguilar
+DEPENDENCIA:
+CALLE:
+NO. INT. Y
+DOMICILIO:
+N/A
+Calle Benito Juarez, S/N
+EXT.:
+N/A
+COLONIA:
+San Cristobal Centro
+MUNICIPIO:
+Ecatepec deMorelos
+55000
+C.P.:
+HORARIOYDIASDE
+Lunes a Viernes de 9:00 a 15: 00 horas
+ATENCION:
+TELEFONOS:
+EXTS.:
+LADA:
+FAX:
+CORREOELECTRONICO:
+55
+1553
+58361553
+N/A
+N/A
+
+===== PAGINA 4 =====
+ESYADO DE
+MEXICOK
+MEXICO
+OTRAS OFICINAS QUE PRESTAN EL SERVICIO
+OFICINA:
+N/A
+N/A
+NOMBREDELTITULARDE
+LA OFICINA:
+N/A
+N/A
+N/A
+N/A
+DOMICILIO:
+N/A
+COLONIA:
+N/A
+MUNICIPIO:
+N/A
+N/A
+HORARIOY DIASDE
+C.P.:
+ATENCION:
+TELEFONOS:
+LADA:
+EXTS.:
+FAX:
+CORREOELECTRONICO
+N/A
+N/A
+N/A
+N/A
+N/A
+FORMATO(S)
+N/A
+DESCARGABLES
+INFORMACIONADICIONAL
+zCuando debo realizar una Traslativa de Dominio?
+PREGUNTAFRECUENTE1:
+RESPUESTA:
+Al adquirir un bien inmueble.
+PREGUNTAFRECUENTE2:
+Donde debo tramitar las certificaciones para realizar mi Traslado de Dominio?
+En el Departamento de Catastro y en SAPASE o en el Pozo Independiente
+RESPUESTA:
+PREGUNTAFRECUENTE3:
+Donde presentar mis documentos, una vez que los tenga completos?
+RESPUESTA:
+En el Departamento de Traslado de Dominio, en Ventanillas 1 o 2.
+TRAMITES O SERVICIOS RELACIONADOS
+ECATEPEC
+ICambloconhonestidad!
+VISTO BUENO:
+FECHA DE
+ACTUALIZACION:
+TRASLADODE
+DOMINIO
+Cambjoconbonestidad!
+06/02/2025
+H.AYUNTAMIENTOECATEPEC BEMORELOS
+2025
+MMNTAMIENTTERECNE BMORELOS
+2027
+202
+2027
+TEZORERIA
+JOSEBERTOLOPELCASXREAGUILAR
+LIC.ALMJANDROHERNANDEZAGUILAR
+JEFEDEDEPARTAMENTO
+TESOREROMUNICIPAL

@@ -1,0 +1,32 @@
+TRAMITE: Emisión de Recibo de Pago de Predio (Cambio de Boucher del banco por su recibo oficial)
+TIPO: Trámite
+AREA: Tesorería Municipal / Departamento Impuesto Predial
+DOCUMENTO_A_OBTENER: Recibo oficial de pago de predio
+VIGENCIA_DEL_DOCUMENTO_A_OBTENER: Sin plazo — a petición del contribuyente
+SE_REALIZA_EN_LINEA: NO
+DESCRIPCION: Se extiende comprobante de pagos realizados a Tesorería, efectuados en línea, Transferencia o en Institución Bancaria.
+FUNDAMENTO_LEGAL: Artículo 20 Bis, 26 párrafo 6 y 7 del Código Financiero del Estado de México y Municipios.
+CASOS: Cuando el contribuyente realice pago a través del portal del Gobierno del Estado o en institución bancaria.
+
+REQUISITOS PERSONAS FÍSICAS:
+1. Último recibo predial (Original SI, Copia 1)
+2. Documento que acredite la propiedad (Original SI, Copia 1)
+3. Pago bancario (boucher) (Original SI, Copia 1)
+4. Identificación del titular o carta poder con dos testigos (Original SI, Copia 1)
+5. Para Persona Moral (variante): último recibo predial, poder notarial, documento que acredite propiedad (Original SI, Copia 1)
+
+REQUISITOS PERSONAS JURÍDICO COLECTIVAS:
+1. Documento que acredite la titularidad (Original SI, Copia 1)
+2. Poder notarial (Original SI, Copia 1)
+3. Acta constitutiva (Original SI, Copia no especificada)
+
+REQUISITOS INSTITUCIONES PÚBLICAS:
+1. Identificación Oficial vigente (Original SI, Copia 1)
+2. Poder notarial (Original SI, Copia 1)
+3. Acta Constitutiva (Original SI, Copia 1)
+
+COSTO: Ninguno para año fiscal corriente. Años anteriores genera costo (copia simple $24.00).
+TIEMPO_MAXIMO_RESPUESTA: Media hora
+FORMA_DE_PAGO: Efectivo, TDC, TDB. (Portal de pagos NO)
+TRAMITES_RELACIONADOS: Certificación de Clave y Valor Catastral
+FECHA_ACTUALIZACION: 31/01/2025

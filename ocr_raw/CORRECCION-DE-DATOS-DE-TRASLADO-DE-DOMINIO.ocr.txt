@@ -1,0 +1,294 @@
+===== PAGINA 1 =====
+CODIERAODEL
+ESTAXE
+ESTADOOE
+MEXICOK
+MEXICO
+NOMBRE:
+TRAMITE:
+SERVICIO:
+CorrecciondeDatosenTraslado deDominio
+DESCRIPCION:
+En caso de que algun dato registrado en el Traslado de Dominio, sea incorrecto el Departamento de Traslado de Dominio podra
+realizar las correcciones pertinentes.
+“Si el error corresponde a la direccion o a la superficie del inmueble, se solicitara a Catastro la informacion correcta."
+"Si el error esta en el nombre y proviene del documento de Propiedad, se requerira una Testimonial de Nombre emitida por la
+autoridad correspondiente, Notario y/o Juzgado."
+Articulos 70, 71 y 113 del Codigo Financiero del Estado de Mexico y Municipios; 4 de la Ley de
+Ingresos de los Municipios del Estado de México; 3, 13, 15 y 48 fraccion VI de la Ley Organica de la
+FUNDAMENTO
+Administracion Publica del Estado de Mexico; y 1 fraccion II y IX 3, 113, 115, 116, 118 fraccion I, 132
+LEGAL:
+del
+135
+Codigo
+de
+Procedimientos
+Administrativos del Estado de Mexico.
+VIGENCIA DEL
+DOCUMENTOA
+DOCUMENTOA
+Permanente
+OBTENER:
+CorrecciondeDatosenTrasladodeDominio
+OBTENER:
+SI
+NO
+SE REALIZA EN
+DIRECCION
+LINEA?:
+WEB
+N/A
+CASOSENLOSOUEELTRAMITE
+Cuando se cuenta con informacion erronea del Inmueble o el Propietario en el
+DEBE REALIZARSE:
+Traslado de Dominio Original.
+ESPECIFICARSIESTETRAMITE
+OSERVICIOESTASUJETOA
+INSPECCION O VERIFICACION Y N/A
+OBJETIVODELAMISMA
+ORIGINAL
+COPIAS
+FUNDAMENTOJURIDICO-
+REQUISITOS:
+anotarcon
+ADMINISTRATIVO,
+Anotar SI o
+NO
+numero
+PERSONAS FiSICAS
+1.
+Presentar copia certificada de la Escritura
+NO
+Articulo 113 del Codigo Financiero de
+Publica expedida por notario.
+Estado de Mexico y Municipios, y pagina
+112 a 120 del Manual de Procedimientos de
+Resolucion Judicial o Administrativa que
+NO
+Tesoreria Municipal
+haya causado ejecutoria, en el que conste
+
+===== PAGINA 2 =====
+GODILRNO DEL
+ESTADOOE
+MEXICOK
+MEXICO
+el acto Traslativo de Dominio.
+3.En caso de Documentos Privados (Compra
+Venta, Cesion de Derechos o Donacion)
+SI
+4.
+Presentar Traslado de Dominio y Pago de
+SI
+traslado de Dominio.
+5.
+Identificacion Oficial del Propietario, o
+SI
+Carta
+Poder
+respectivas
+con
+identificaciones.
+Formato proporcionado en ventanilla 1 o
+2, llenado a Maquina de escribir o
+NO
+computadora.
+7.
+Copia de Pago de Impuesto Predial al
+Corriente
+INSTITUCIONES PUBLICAS
+1. 
+Presentar copia certificada de la Escritura
+NO
+Articulo 113 del Codigo Financiero de
+Publica expedida por notario.
+Estado de Mexico y Municipios, y pagina
+112 a 120 del Manual deProcedimientos de
+2.
+Resolucion Judicial o Administrativa que
+Tesoreria Municipal
+haya causado ejecutoria,en el que conste
+el acto Traslativo de Dominio.
+3.Presentar Traslado de Dominio y Pago de
+SI
+traslado de Dominio.
+4. Poder
+Notarial
+con
+respectivas
+SI
+identificaciones.
+5. Formato proporcionado en ventanilla 1 o
+SI
+2, llenado a Maquina de escribir o
+computadora.
+6.
+Copia de Pago de Impuesto Predial al
+NO
+Corriente
+
+===== PAGINA 3 =====
+CODIERKO DEL
+ESTAOO DE
+MEXICOK
+MEXICO
+PASOSASEGUIR
+OUE DEBE DE
+1. Presentar requisitos completos en ventanilla 1 o 2 para recibir su liquidacion.
+REALIZAREL
+CIUDADANO
+2. Realizar el pago en cajas de la Tesoreria.
+3. Presentar el pago en ventanilla con 2 copias.
+4. Regresar en 30 dias por su documento firmado y autorizado.
+30Dias habiles
+PLAZO MAXIMO
+DE RESPUESTA
+COSTO:
+113 Pesos
+Articulos 70, 71 y 73del CodigoFinanciero del Estado México
+FORMA DE PAGO:
+TARJETA DE
+TARJETA DE
+EN LiNEA (PORTAL
+SI
+SI
+SI
+EFECTIVO
+SI
+CREDITO
+DEBITO
+DE PAGOS)
+DONDE PODRA
+En cajas de la Tesoreria Municipal
+PAGARSE:
+OTRAS
+Bancaria
+ALTERNATIVAS:
+Si no se presenta el original del formato de Traslado de Dominio y pago del Traslado de Dominio y se
+CRITERIOSDE
+realiza el pago dentro del plazo del mes corriente, la liquidacion quedara sin valor y se tendra que
+RESOLUCIONDEL
+realizar otra.
+TRAMITE
+APLICACION DE
+LA AFIRMATIVA
+N/A
+FICTA.
+UNIDADADMINISTRATIVA
+DEPENDENCIAUORGANISMO:
+RESPONSABLE:
+Tesoreria Municipal
+Traslado de Dominio
+TITULAR DE LA
+Lic. Alejandro Hernandez Aguilar
+DEPENDENCIA:
+DOMICILIO:
+CALLE:
+NO. INT. Y
+N/A
+CalleBenitoJuarez,S/N
+EXT.:
+N/A
+COLONIA:
+SanCristobalCentro
+MUNICIPIO:
+Ecatepecde Morelos
+C.P.: 55000
+HORARIOYDIASDE
+Lunes a Viernes de 9:00 a 15: 00 horas
+ATENCION:
+LADA:
+TELEFONOS:
+EXTS.:.
+FAX:
+CORREOELECTRONICO
+
+===== PAGINA 4 =====
+COBILRKODEL
+SIXOE
+ESTAOO DE
+MEXICOK
+MEXICO
+55
+1553
+58361553
+N/A
+N/A
+OTRASOFICINASOUEPRESTANELSERVICIO
+N/A
+OFICINA:
+N/A
+NOMBREDELTITULARDE
+LA OFICINA:
+CALLE:
+N/A
+N/A
+DOMICILIO:
+NO. INT. Y
+EXT.: N/A
+N/A
+COLONIA:
+N/A
+MUNICIPIO:
+N/A
+N/A
+HORARIOY DIASDE
+C.P.:
+ATENCION:
+TELEFONOS:
+EXTS.:
+LADA:
+FAX:
+CORREOELECTRONICO:
+N/A
+N/A
+N/A
+N/A
+N/A
+FORMATO(S)
+N/A
+DESCARGABLES
+INFORMACIONADICIONAL
+Cuando debo realizar una Correccion de Datos en el Formato de Traslado de Dominio?
+PREGUNTA FRECUENTE I:
+Cuando se encuentra informacion erronea en los formatos de Traslado de Dominio
+RESPUESTA:
+Donde debo tramitar mi Correccion de Traslado de Dominio?
+PREGUNTAFRECUENTE2:
+RESPUESTA:
+En el Departamento de Traslado de Dominio
+Donde Presentar mis documentos, una vez que los tenga completos?
+PREGUNTAFRECUENTE3:
+En el Departamento de Traslado de Dominio, en Ventanillas 1 o 2.
+RESPUESTA:
+TRAMITES O SERVICIOS RELACIONADOS
+N/A
+
+===== PAGINA 5 =====
+COOIERO DR
+ESTADO DE
+MEXICON
+MEXICO
+ELABORO:
+YISTO BUENO:
+FECHA DE
+XECAYECEO
+ACTUALIZACION:
+iCambigcon honestidadi
+06/02/2025
+MAYUNTAMENTELATEOEOOEMGRRLOS
+20
+2027
+JOSEBERTOLOPEICASTREAGUILAR
+LIC.ALEJANDROHERNANDEZACULAR
+JEFEDEDEPARTAMENTO
+TESOREROMUNICIPAL
+ECATEPEC
+ICambio conhonestidod!
+DEPARTAMENTO DE
+TRASLADODE
+DOMINIO
+H.AYUNTAMIENTO ECATEPEC DE MORELOS
+2 02 5
+2027

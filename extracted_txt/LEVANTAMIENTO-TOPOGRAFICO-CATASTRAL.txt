@@ -1,0 +1,49 @@
+TRAMITE: Levantamiento Topográfico Catastral
+TIPO: Servicio
+AREA: Catastro / Jefatura de Catastro
+DOCUMENTO_A_OBTENER: Acta administrativa y plano de levantamiento topográfico
+VIGENCIA_DEL_DOCUMENTO_A_OBTENER: Permanente, siempre y cuando no se realicen modificaciones.
+SE_REALIZA_EN_LINEA: NO
+DESCRIPCION: Levantamiento fundado en la descripción del documento que acredita la propiedad, con las precisiones del solicitante, los propietarios y/o poseedores de inmuebles colindantes, así como evidencias físicas (vialidades, bardas, cercas, canales, barrancas, etc.).
+FUNDAMENTO_LEGAL: Artículos 166 fracción V, 167, 168, 169 fracción IV, 171, 173, 175, 179 y 182 del Código Financiero del Estado de México y Municipios; 21 y 22 fracción II inciso e del Reglamento del Título Quinto denominado "Del Catastro"; Numeral III del Manual Catastral del Estado de México.
+CASOS: Cuando el propietario o poseedor no está conforme con las medidas y superficies del documento que acredita la propiedad, siempre que proporcione la relación de colindantes.
+SUJETO_A_INSPECCION: Sí aplica — verificación de linderos y superficies del inmueble.
+
+REQUISITOS PERSONAS FÍSICAS:
+1. Formato de Solicitud de Servicios Catastrales debidamente llenado, firmado y requisitado (Original SI, Copias 0)
+2. Documento con el que se acredite la propiedad (Escritura Pública, Testimonio Notarial o Sentencia Judicial con ejecutoria) (Original NO, Copias 1)
+3. Recibo de pago de Impuesto Predial al corriente o línea de captura con boucher bancario (Original NO, Copias 1)
+4. Identificación oficial del propietario o poseedor (credencial para votar vigente, cartilla, pasaporte o cédula profesional) (Original NO, Copias 1)
+5. Carta poder e identificación oficial vigente de quien solicite el trámite, si no es el propietario (Original SI, Copias 0)
+6. Relación de nombres de los colindantes y de dos testigos con domicilio en el territorio municipal (Original SI, Copias 0)
+7. Recibo del pago de derechos por el servicio (Original SI, Copias 1)
+8. Fotografía de la fachada del inmueble a color (Original SI, Copias 0)
+9. Croquis de localización del inmueble (Original SI, Copias 0)
+
+REQUISITOS PERSONAS JURÍDICO COLECTIVAS:
+1. Formato de Solicitud de Servicios Catastrales (Original SI, Copias 0)
+2. Documento que acredite la propiedad (Escritura Pública, Testimonio Notarial o Sentencia Judicial con ejecutoria) (Original NO, Copias 1)
+3. Recibo de predial y/o comprobante de pago del Impuesto Predial (boucher bancario), y manifestación catastral con la línea de captura del pago correspondiente (Original NO, Copias 1)
+4. Identificación oficial del propietario (credencial para votar, cartilla, pasaporte o cédula profesional vigente) (Original NO, Copias 1)
+5. Poder del representante legal e identificación oficial de quien solicite el trámite (Original SI, Copias 0)
+6. Relación de nombres de los colindantes y de dos testigos con domicilio en el territorio municipal (Original SI, Copias 0)
+7. Recibo del pago de derechos por el servicio (Original SI, Copias 1)
+8. Fotografía de la fachada del inmueble a color (Original SI, Copias 0)
+9. Croquis de localización del inmueble (Original SI, Copias 0)
+
+REQUISITOS INSTITUCIONES PÚBLICAS:
+1. Formato de Solicitud de Servicios Catastrales (Original SI, Copias 0)
+2. Documento que acredite la propiedad (Original NO, Copias 1)
+3. Identificación oficial del propietario (Original SI, Copias 0)
+4. Carta poder e identificación oficial vigente de quien solicite, si no es el propietario (Original SI, Copias 0)
+5. Solicitud de exención de los servicios catastrales (Art. 23 CFEM) (Original SI, Copias 0)
+6. Fotografía de la fachada del inmueble a color (Original SI, Copias 0)
+7. Croquis de localización del inmueble (Original SI, Copias 0)
+
+PASOS: Llenar la solicitud de servicios catastrales, adjuntar la documentación → Realizar el pago de derechos → Verificación física → A los 5 días hábiles posteriores se emite acta circunstanciada y plano de levantamiento.
+COSTO: Variable, según rango de superficie de terreno (Art. 166 fracción V CFEM)
+TIEMPO_MAXIMO_RESPUESTA: 25 días hábiles posteriores a la visita
+FORMA_DE_PAGO: Efectivo, TDC, TDB, En línea (Portal de Pagos SÍ). Alternativa: bancos autorizados.
+INFORMACION_ADICIONAL: La lista de colindantes es obligatoria (Numeral III, III.1.3 Políticas Generales LTC004 del Manual Catastral EdoMex). Aplicable a predios individuales y a superficies privativas bajo régimen de propiedad en condominio.
+TRAMITES_RELACIONADOS: Solicitud de Certificación de Clave y Valor Catastral.
+FECHA_ACTUALIZACION: 31/01/2025

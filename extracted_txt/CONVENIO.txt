@@ -1,0 +1,40 @@
+TRAMITE: Convenio (Pago en parcialidades)
+TIPO: Servicio
+AREA: Tesorería Municipal / Departamento de Ejecución Fiscal
+DOCUMENTO_A_OBTENER: Recibo por cada parcialidad pagada y carta finiquito al término del convenio
+VIGENCIA_DEL_DOCUMENTO_A_OBTENER: No aplica (cada pago emite su recibo)
+SE_REALIZA_EN_LINEA: NO
+DESCRIPCION: Servicio que permite al contribuyente cubrir sus contribuciones en parcialidades mensuales. Al liquidar el total se extiende carta finiquito.
+FUNDAMENTO_LEGAL: Artículos 17, 30, 32, 33 y 34 del Código Financiero del Estado de México y Municipios; 47 del Bando Municipal de Ecatepec de Morelos 2025; y 2º del Reglamento Interno de la Administración Pública Municipal.
+CASOS: Cuando el contribuyente no puede cubrir en una sola exhibición un adeudo ante cualquier dependencia municipal (predial, traslado de dominio, etc.).
+SUJETO_A_INSPECCION: NO
+
+REQUISITOS PERSONAS FÍSICAS:
+1. Petición por escrito dirigida al Tesorero Municipal, solicitando cubrir el adeudo mediante convenio (Original SI, Copias 0)
+2. Liquidación y/o cuenta a pagar emitida por alguna dependencia del Gobierno Municipal de Ecatepec (Original SI, Copias 0)
+3. En caso de pago de impuesto predial o traslado de dominio: documentación que acredite la propiedad, o carta poder si el gestor no es el propietario (Original SI, Copias 0)
+4. Identificación oficial vigente con fotografía (Original SI, Copias 0)
+5. Pago de anticipo del 20% del total del adeudo para aperturar el convenio
+
+REQUISITOS PERSONAS JURÍDICO COLECTIVAS:
+1. Petición por escrito dirigida al Tesorero Municipal (Original SI, Copias 0)
+2. Liquidación y/o cuenta a pagar emitida por alguna dependencia (Original SI, Copias 0)
+3. En caso de predial o traslado: documentación que acredite la propiedad o carta poder (Original SI, Copias 0)
+4. Poder notarial con el cual se faculte al representante legal para realizar el convenio (Original SI, Copias 0)
+5. Identificación oficial vigente con fotografía (Original SI, Copias 0)
+6. Pago de anticipo del 20% del total del adeudo
+
+REQUISITOS INSTITUCIONES PÚBLICAS:
+1. Petición por escrito dirigida al Tesorero Municipal (Original SI, Copias 0)
+2. Liquidación y/o cuenta a pagar emitida por alguna dependencia (Original SI, Copias 0)
+3. Documentación que acredite la propiedad o carta poder si aplica (Original SI, Copias 0)
+4. Poder con el cual se faculte al representante legal para realizar el convenio (Original SI, Copias 0)
+5. Identificación oficial vigente con fotografía (Original SI, Copias 0)
+6. Pago de anticipo del 20% del total del adeudo
+
+PASOS: Presentarse en el Departamento de Ejecución Fiscal → Elaboración y explicación del proyecto de convenio → Firma del expediente → Pago mensual → Recibo entregado en ventanilla → Al liquidar, recoger carta finiquito (plazo de 1 mes tras el último pago).
+COSTO: Gratuito (el servicio; sólo se paga el adeudo original)
+TIEMPO_MAXIMO_RESPUESTA: Inmediato
+FORMA_DE_PAGO: Efectivo, Tarjeta de Crédito, Tarjeta de Débito (Portal en línea: NO). Alternativa: transferencia bancaria.
+TRAMITES_RELACIONADOS: N/A
+FECHA_ACTUALIZACION: 31/01/2025

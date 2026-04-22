@@ -1,0 +1,29 @@
+TRAMITE: Pago del Impuesto Predial
+TIPO: Servicio
+AREA: Tesorería Municipal / Departamento Impuesto Predial
+DOCUMENTO_A_OBTENER: Recibo de pago de Impuesto Predial
+VIGENCIA_DEL_DOCUMENTO_A_OBTENER: La vigencia es del periodo de pago que cubre el recibo
+SE_REALIZA_EN_LINEA: SÍ
+DIRECCION_WEB: https://sfpya.edomexico.gob.mx/predial/
+DESCRIPCION: Trámite que permite a los contribuyentes inscritos en el padrón catastral cubrir el pago de su impuesto predial.
+FUNDAMENTO_LEGAL: Artículo 8 de la Constitución Política de los Estados Unidos Mexicanos; 2, 7 y 9 de la Ley de Ingresos del Estado de México y Municipios; 107 al 112 del Código Financiero del Estado de México y Municipios.
+CASOS: El pago de impuesto predial es una obligación fiscal anual.
+SUJETO_A_INSPECCION: N/A
+
+REQUISITOS PERSONAS FÍSICAS:
+1. Último recibo de pago de impuesto predial y/o identificación oficial del contribuyente registrado (Original NO, Copias según ventanilla)
+
+REQUISITOS PERSONAS JURÍDICO COLECTIVAS:
+1. Último recibo de pago de impuesto predial y/o identificación oficial del contribuyente registrado (Original NO, Copias según ventanilla)
+
+REQUISITOS INSTITUCIONES PÚBLICAS:
+1. Último recibo de pago de impuesto predial y/o identificación oficial del contribuyente registrado (Original NO, Copias según ventanilla)
+
+PASOS: Acudir a la ventanilla → Presentar los documentos → Pago de impuestos en caja → Recoger recibo de pago.
+COSTO: Sin costo (el trámite; se paga el impuesto correspondiente)
+TIEMPO_MAXIMO_RESPUESTA: 15 minutos
+FORMA_DE_PAGO: Efectivo, TDC, TDB, En línea (Portal de Pagos SÍ). Alternativa: Banco BBVA y portal https://sfpya.edomexico.gob.mx/predial/
+CRITERIOS_RESOLUCION: Acreditar la titularidad o la personalidad jurídica correctamente.
+INFORMACION_ADICIONAL: El recibo tiene validez en el año fiscal en que se cobra el impuesto. Puede acudir persona distinta al titular. Horario: Lunes a Viernes 9:00 a 15:30 hrs.
+TRAMITES_RELACIONADOS: Certificación de No Adeudo Predial; Certificación de No Adeudo de Aportación a Mejoras.
+FECHA_ACTUALIZACION: 31/01/2025

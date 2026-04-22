@@ -1,0 +1,37 @@
+TRAMITE: Certificación de No Adeudo Predial y Aportación de Mejoras
+TIPO: Servicio
+AREA: Tesorería Municipal / Departamento Impuesto Predial
+DOCUMENTO_A_OBTENER: Certificado de No Adeudo de Impuesto Predial ó Aportación de Mejoras
+VIGENCIA_DEL_DOCUMENTO_A_OBTENER: Año en que se emite
+SE_REALIZA_EN_LINEA: NO
+DESCRIPCION: Trámite de certificaciones que solicita el contribuyente para inscribir el inmueble en el Registro Público de la Propiedad o para venta del mismo.
+FUNDAMENTO_LEGAL: Art. 2, 7, 9 Ley de Ingresos; Art. 8 CPEUM; 147 Fracción III Código Financiero del Estado de México y Municipios.
+CASOS: Cuando se quiera inscribir el inmueble al Registro Público o se quiera vender.
+SUJETO_A_INSPECCION: NO
+
+REQUISITOS PERSONAS FÍSICAS:
+1. Formato llenado + documento que acredita la propiedad: (a) Escrituras (Original SI, Copia 1)
+2. (b) Contrato de compraventa, cesión de derechos o donación (Original SI, Copia 1)
+3. (c) Sentencia de autoridad judicial con ejecutoria (con antecedente registral) (Original SI, Copia 1)
+4. (d) Manifestación de adquisición de inmuebles u otras operaciones traslativas de dominio autorizada con recibo de pago (Original SI, Copia 1)
+5. (e) Acta de entrega y/o liberación cuando se trate de inmueble de interés social (Original SI, Copia 1)
+6. (f) Cédula de contratación de CORETT/IMEVIS debidamente certificada (Original SI, Copia 1)
+7. Identificación oficial (Original SI, Copia 1)
+8. Recibo de predio actual (Original SI, Copia 1)
+
+REQUISITOS PERSONAS JURÍDICO COLECTIVAS:
+1. Identificación Oficial vigente (Original SI, Copia 1)
+2. Poder notarial (Original SI, Copia 1)
+3. Acta Constitutiva (Original SI, Copia 1)
+
+REQUISITOS INSTITUCIONES PÚBLICAS:
+1. Identificación Oficial vigente (Original SI, Copia 1)
+2. Poder notarial (Original SI, Copia 1)
+3. Acta Constitutiva (Original SI, Copia 1)
+
+PASOS: Ingresar doc en ventanilla → Validación → Pago derechos → Elaboración certificación.
+COSTO: $283.00
+TIEMPO_MAXIMO_RESPUESTA: 15 días
+FORMA_DE_PAGO: Efectivo, TDC, TDB (Portal: NO)
+TRAMITES_RELACIONADOS: Certificación de Clave y Valor Catastral
+FECHA_ACTUALIZACION: 31/01/2025

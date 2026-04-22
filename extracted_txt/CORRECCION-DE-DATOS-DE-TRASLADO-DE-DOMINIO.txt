@@ -1,0 +1,36 @@
+TRAMITE: Corrección de Datos en Traslado de Dominio
+TIPO: Trámite
+AREA: Tesorería Municipal / Departamento de Traslado de Dominio
+DOCUMENTO_A_OBTENER: Corrección de Datos en Traslado de Dominio
+VIGENCIA_DEL_DOCUMENTO_A_OBTENER: Permanente
+SE_REALIZA_EN_LINEA: NO
+DESCRIPCION: Cuando algún dato registrado en el Traslado de Dominio es incorrecto, el Departamento realiza las correcciones pertinentes. Si el error corresponde a dirección o superficie del inmueble, se solicita a Catastro la información correcta. Si el error está en el nombre y proviene del documento de propiedad, se requiere una Testimonial de Nombre emitida por notario o juzgado.
+FUNDAMENTO_LEGAL: Artículos 70, 71 y 113 del Código Financiero del Estado de México y Municipios; 4 Ley de Ingresos de los Municipios; 3, 13, 15 y 48 fracción VI Ley Orgánica de la Administración Pública del Estado de México; 1 fracción II y IX, 3, 113, 115, 116, 118 fracción I, 132 y 135 del Código de Procedimientos Administrativos.
+CASOS: Cuando se cuenta con información errónea del inmueble o del propietario en el Traslado de Dominio Original.
+SUJETO_A_INSPECCION: N/A
+
+REQUISITOS PERSONAS FÍSICAS:
+1. Copia certificada de la Escritura Pública expedida por notario (Original NO, Copias 1)
+2. Resolución Judicial o Administrativa con ejecutoria (Original NO, Copias 1)
+3. Documentos privados (Compra-venta, Cesión de derechos o Donación) (Original SI, Copias 0)
+4. Traslado de Dominio y Pago de Traslado de Dominio (Original SI, Copias 1)
+5. Identificación Oficial del propietario, o Carta Poder con respectivas identificaciones (Original SI, Copias 1)
+6. Formato proporcionado en ventanilla 1 o 2, llenado a máquina o computadora (Original NO, Copias 1)
+7. Copia de Pago de Impuesto Predial al corriente (Original NO, Copias 1)
+8. Testimonial de Nombre emitida por notario o juzgado (si el error proviene del documento de propiedad) (Original SI, Copias 1)
+
+REQUISITOS INSTITUCIONES PÚBLICAS:
+1. Copia certificada de la Escritura Pública expedida por notario (Original NO, Copias 1)
+2. Resolución Judicial o Administrativa con ejecutoria (Original NO, Copias 1)
+3. Traslado de Dominio y Pago de Traslado de Dominio (Original SI, Copias 1)
+4. Poder Notarial con respectivas identificaciones (Original SI, Copias 1)
+5. Formato proporcionado en ventanilla 1 o 2, llenado a máquina o computadora (Original SI, Copias 1)
+6. Copia de Pago de Impuesto Predial al corriente (Original NO, Copias 1)
+
+PASOS: Presentar requisitos completos en ventanilla 1 o 2 → Pago en cajas de la Tesorería → Presentar pago en ventanilla con 2 copias → Regresar en 30 días por documento firmado.
+COSTO: $113.00 (Arts. 70, 71 y 73 CFEM)
+TIEMPO_MAXIMO_RESPUESTA: 30 días hábiles
+FORMA_DE_PAGO: Efectivo, TDC, TDB, En línea (Portal de Pagos SÍ). Alternativa: bancaria.
+CRITERIOS_RESOLUCION: Si no se presenta el original del formato y pago de Traslado de Dominio dentro del mes corriente, la liquidación queda sin valor y deberá realizarse otra.
+TRAMITES_RELACIONADOS: N/A
+FECHA_ACTUALIZACION: 06/02/2025

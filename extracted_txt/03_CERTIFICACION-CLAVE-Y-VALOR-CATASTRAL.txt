@@ -1,0 +1,32 @@
+TRAMITE: Certificación de clave y valor catastral
+TIPO: Trámite
+AREA: Catastro
+DOCUMENTO_A_OBTENER: Certificación de clave y valor catastral
+VIGENCIA_DEL_DOCUMENTO_A_OBTENER: Ejercicio fiscal vigente
+SE_REALIZA_EN_LINEA: NO
+DESCRIPCION: Con base en la consulta de los datos que existen en el sistema de gestión catastral, se certifica la clave y el valor catastral que aparecen en los registros.
+FUNDAMENTO_LEGAL: Art. 166 fracción II, 167, 168, 171, 173, 175 y 182 del Código Financiero del Estado de México y Municipios; 21 y 22 numeral II inciso d del Reglamento del Título Quinto.
+CASOS: Cuando el ciudadano requiera del valor catastral certificado o para realizar un traslado de dominio.
+SUJETO_A_INSPECCION: Sí aplica, en caso de inconsistencias en datos manifestados y registrados.
+
+REQUISITOS PERSONAS FÍSICAS:
+1. Formato de Solicitud de Servicios Catastrales debidamente llenado, firmado y requisitado (Original SI, Copias 0)
+2. Manifestación debidamente llenada en caso de modificaciones de superficie (Original SI, Copias 0)
+3. Documento que acredite la propiedad (Escritura Pública, Testimonio Notarial, Sentencia Judicial con Ejecutoria, manifestación de traslado de dominio y recibo de pago, cédula de contratación IMEVIS/INSUS/CORETT, entrega de vivienda, contrato compra-venta, cesión de derechos) (Original SI, Copias 1)
+4. (implícito) Identificación oficial del propietario y/o representante legal (credencial elector vigente, cartilla, pasaporte, cédula profesional)
+5. Carta poder e identificación oficial de quien solicite el trámite (si no es el propietario/representante/apoderado) (Original SI, Copias 0)
+6. Pago de Impuesto Predial (Manifestación catastral y Boucher bancario y/o boleta predial) (Original NO, Copias 1)
+7. Pago de derechos de la Certificación de clave y valor catastral (Original SI, Copias 1)
+8. Fotografía de la fachada del inmueble a color (Original SI, Copias 0)
+9. Croquis de localización del inmueble (Original SI, Copias 0)
+
+REQUISITOS INSTITUCIONES PÚBLICAS:
+1. Formato de Solicitud de Servicios Catastrales (Original SI, Copias 0)
+2. Manifestación para modificaciones de superficie (Original SI, Copias 0)
+3. Documento que acredite la propiedad (mismos equivalentes) (Original SI, Copias 1)
+4. Identificación oficial del propietario y/o representante legal (Original NO, Copias 1)
+5. Carta poder e identificación oficial del gestor (Original SI, Copias 0)
+6. Solicitud de exención de los servicios catastrales (Original SI, Copias 1)
+
+COSTO: Aplicable — ver tarifa (no especificado explícitamente en páginas leídas; inferir Art. 166 fracción II).
+FECHA_ACTUALIZACION: 31/ENERO/2025

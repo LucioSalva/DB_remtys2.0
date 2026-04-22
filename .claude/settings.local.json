@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(psql --version)",
+      "Bash(PGPASSWORD=admin psql -h localhost -p 5432 -U postgres -d postgres -c \"SELECT version\\(\\);\")",
+      "Read(//c/Program Files/PostgreSQL/**)",
+      "Read(//c/Program Files \\(x86\\)/PostgreSQL/**)",
+      "Bash(\"C:/Program Files/PostgreSQL/17/bin/psql.exe\" --version)",
+      "Bash(PGPASSWORD=admin \"C:/Program Files/PostgreSQL/17/bin/psql.exe\" -h localhost -p 5432 -U postgres -d postgres -c \"SELECT current_database\\(\\), version\\(\\);\")",
+      "Bash(psql -U postgres -h localhost -p 5432 -c \"SELECT version\\(\\);\")",
+      "Bash(PGPASSWORD=admin /c/Program Files/PostgreSQL/17/bin/psql.exe *)",
+      "Bash(where pdftotext *)",
+      "Bash(python -c \"import fitz; print\\('pymupdf ok'\\)\")",
+      "Bash(awk '{print $5, $NF}')",
+      "Bash(where pg_isready)",
+      "Bash(where psql *)",
+      "Bash(export PGPASSWORD=admin)",
+      "Bash(\"/c/Program Files/PostgreSQL/17/bin/psql.exe\" -h localhost -p 5432 -U postgres -d postgres -c \"SELECT version\\(\\);\")",
+      "Bash(where tesseract *)",
+      "Bash(where python *)",
+      "Bash(where py *)",
+      "Bash(py -m pip show pytesseract)",
+      "Bash(py -m pip show pdf2image)",
+      "Bash(py -m pip show pypdf)",
+      "Bash(py -c \"import fitz; print\\('pymupdf', fitz.__version__\\)\")",
+      "Bash(py -m pip install --quiet pymupdf)",
+      "Bash(py *)",
+      "Bash(winget install *)",
+      "Bash(\"C:/Program Files/Tesseract-OCR/tesseract.exe\" --version)",
+      "Bash(git init *)",
+      "Bash(git add *)"
+    ]
+  }
+}
